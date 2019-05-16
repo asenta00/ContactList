@@ -1,0 +1,422 @@
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\ApplicationInsights.config
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\ContactList.dll.config
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\ContactList.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\ContactList.pdb
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\csc.exe
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\csc.exe.config
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\csc.rsp
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\csi.exe
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\csi.exe.config
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\csi.rsp
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.AppContext.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.Console.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.IO.Compression.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.IO.Pipes.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.Security.Claims.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.Threading.Thread.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.ValueTuple.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.Xml.XPath.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\vbc.exe
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\vbc.exe.config
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\vbc.rsp
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\VBCSCompiler.exe
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\Antlr3.Runtime.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\EntityFramework.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\EntityFramework.SqlServer.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\Microsoft.AI.Web.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\Microsoft.ApplicationInsights.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\Newtonsoft.Json.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\System.Net.Http.Formatting.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\System.Web.Helpers.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\System.Web.Http.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\System.Web.Http.WebHost.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\System.Web.Mvc.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\System.Web.Optimization.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\System.Web.Razor.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\System.Web.WebPages.Deployment.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\System.Web.WebPages.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\System.Web.WebPages.Razor.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\WebGrease.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\EntityFramework.xml
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\EntityFramework.SqlServer.xml
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\Newtonsoft.Json.xml
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\System.Net.Http.Formatting.xml
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\System.Web.Helpers.xml
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\System.Web.Http.xml
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\System.Web.Http.WebHost.xml
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\System.Web.Mvc.xml
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\System.Web.Optimization.xml
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\System.Web.Razor.xml
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\System.Web.WebPages.xml
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\System.Web.WebPages.Deployment.xml
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\System.Web.WebPages.Razor.xml
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\Antlr3.Runtime.pdb
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\Microsoft.AI.Web.xml
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\obj\Debug\ContactList.csprojAssemblyReference.cache
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\obj\Debug\ContactList.csproj.CoreCompileInputs.cache
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\obj\Debug\ContactList.csproj.CopyComplete
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\obj\Debug\ContactList.dll
+C:\Users\antonia\Documents\Visual Studio 2017\Projects\ContactList\ContactList\obj\Debug\ContactList.pdb
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.IO.Compression.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\VBCSCompiler.exe
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\ApplicationInsights.config
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\ContactList.dll.config
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\ContactList.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\ContactList.pdb
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\csc.exe
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\csc.exe.config
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\csc.rsp
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\csi.exe
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\csi.exe.config
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\csi.rsp
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.AppContext.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.Console.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.IO.Pipes.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.Security.Claims.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.Threading.Thread.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.ValueTuple.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.Xml.XPath.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\vbc.exe
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\vbc.exe.config
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\vbc.rsp
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\Antlr3.Runtime.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\EntityFramework.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\EntityFramework.SqlServer.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\Microsoft.AI.Web.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\Microsoft.ApplicationInsights.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\Newtonsoft.Json.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Net.Http.Formatting.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Web.Cors.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Web.Helpers.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Web.Http.Cors.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Web.Http.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Web.Http.WebHost.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Web.Mvc.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Web.Optimization.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Web.Razor.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Web.WebPages.Deployment.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Web.WebPages.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Web.WebPages.Razor.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\WebGrease.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\EntityFramework.xml
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\EntityFramework.SqlServer.xml
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Net.Http.Formatting.xml
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Web.Http.xml
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Web.Http.Cors.xml
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\Newtonsoft.Json.xml
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Web.Helpers.xml
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Web.Http.WebHost.xml
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Web.Mvc.xml
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Web.Optimization.xml
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Web.Razor.xml
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Web.WebPages.xml
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Web.WebPages.Deployment.xml
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Web.WebPages.Razor.xml
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\Antlr3.Runtime.pdb
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\Microsoft.AI.Web.xml
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\obj\Debug\ContactList.csproj.CoreCompileInputs.cache
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\obj\Debug\ContactList.csproj.CopyComplete
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\obj\Debug\ContactList.dll
+C:\Users\antonia\Desktop\HRCloudInternshipProject\ContactList\ContactList\obj\Debug\ContactList.pdb
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\ApplicationInsights.config
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\ContactList.dll.config
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\ContactList.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\ContactList.pdb
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\csc.exe
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\csc.exe.config
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\csc.rsp
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\csi.exe
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\csi.exe.config
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\csi.rsp
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.AppContext.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.Console.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.IO.Compression.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.IO.Pipes.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.Security.Claims.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.Threading.Thread.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.ValueTuple.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.Xml.XPath.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\vbc.exe
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\vbc.exe.config
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\vbc.rsp
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\VBCSCompiler.exe
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\Antlr3.Runtime.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\EntityFramework.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\EntityFramework.SqlServer.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\Microsoft.AI.Web.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\Microsoft.ApplicationInsights.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\Newtonsoft.Json.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Net.Http.Formatting.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Web.Cors.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Web.Helpers.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Web.Http.Cors.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Web.Http.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Web.Http.WebHost.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Web.Mvc.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Web.Optimization.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Web.Razor.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Web.WebPages.Deployment.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Web.WebPages.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Web.WebPages.Razor.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\WebGrease.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\EntityFramework.xml
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\EntityFramework.SqlServer.xml
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\Newtonsoft.Json.pdb
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\Newtonsoft.Json.xml
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Net.Http.Formatting.xml
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Web.Http.xml
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Web.Http.Cors.xml
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Web.Helpers.xml
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Web.Http.WebHost.xml
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Web.Mvc.xml
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Web.Optimization.xml
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Web.Razor.xml
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Web.WebPages.xml
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Web.WebPages.Deployment.xml
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Web.WebPages.Razor.xml
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\Antlr3.Runtime.pdb
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\Microsoft.AI.Web.xml
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\obj\Debug\ContactList.csprojAssemblyReference.cache
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\obj\Debug\ContactList.csproj.CoreCompileInputs.cache
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\obj\Debug\ContactList.csproj.CopyComplete
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\obj\Debug\ContactList.dll
+C:\Users\antonia\Desktop\saWeba\contactlistbackend\ContactList\ContactList\obj\Debug\ContactList.pdb
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\ApplicationInsights.config
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\ContactList.dll.config
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\ContactList.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\ContactList.pdb
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\csc.exe
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\csc.exe.config
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\csc.rsp
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\csi.exe
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\csi.exe.config
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\csi.rsp
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.AppContext.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.Console.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.IO.Compression.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.IO.Pipes.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.Security.Claims.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.Threading.Thread.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.ValueTuple.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.Xml.XPath.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\vbc.exe
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\vbc.exe.config
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\vbc.rsp
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\VBCSCompiler.exe
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\Antlr3.Runtime.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\EntityFramework.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\EntityFramework.SqlServer.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\Microsoft.AI.Web.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\Microsoft.ApplicationInsights.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\Newtonsoft.Json.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Net.Http.Formatting.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Web.Cors.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Web.Helpers.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Web.Http.Cors.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Web.Http.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Web.Http.WebHost.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Web.Mvc.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Web.Optimization.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Web.Razor.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Web.WebPages.Deployment.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Web.WebPages.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Web.WebPages.Razor.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\WebGrease.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\EntityFramework.xml
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\EntityFramework.SqlServer.xml
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\Newtonsoft.Json.pdb
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\Newtonsoft.Json.xml
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Net.Http.Formatting.xml
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Web.Http.xml
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Web.Http.Cors.xml
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Web.Helpers.xml
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Web.Http.WebHost.xml
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Web.Mvc.xml
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Web.Optimization.xml
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Web.Razor.xml
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Web.WebPages.xml
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Web.WebPages.Deployment.xml
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Web.WebPages.Razor.xml
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\Antlr3.Runtime.pdb
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\Microsoft.AI.Web.xml
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\obj\Debug\ContactList.csprojAssemblyReference.cache
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\obj\Debug\ContactList.csproj.CoreCompileInputs.cache
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\obj\Debug\ContactList.csproj.CopyComplete
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\obj\Debug\ContactList.dll
+C:\Users\antonia\Desktop\Tonka_ContactList\ContactList\ContactList\obj\Debug\ContactList.pdb

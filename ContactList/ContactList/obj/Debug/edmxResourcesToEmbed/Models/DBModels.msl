@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ContactListDBModelStoreContainer" CdmEntityContainer="DBModel">
+    <EntitySetMapping Name="Contact">
+      <EntityTypeMapping TypeName="ContactListDBModel.Contact">
+        <MappingFragment StoreEntitySet="Contact">
+          <ScalarProperty Name="Tag" ColumnName="Tag" />
+          <ScalarProperty Name="ContactID" ColumnName="ContactID" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Birthdate" ColumnName="Birthdate" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Country" ColumnName="Country" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Email">
+      <EntityTypeMapping TypeName="ContactListDBModel.Email">
+        <MappingFragment StoreEntitySet="Email">
+          <ScalarProperty Name="EmailID" ColumnName="EmailID" />
+          <ScalarProperty Name="EmailContactID" ColumnName="EmailContactID" />
+          <ScalarProperty Name="Email1" ColumnName="Email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MobileNumber">
+      <EntityTypeMapping TypeName="ContactListDBModel.MobileNumber">
+        <MappingFragment StoreEntitySet="MobileNumber">
+          <ScalarProperty Name="MobileID" ColumnName="MobileID" />
+          <ScalarProperty Name="MobileContactID" ColumnName="MobileContactID" />
+          <ScalarProperty Name="MobileNumber1" ColumnName="MobileNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

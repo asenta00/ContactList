@@ -1,0 +1,63 @@
+<form [formGroup]="contactForm" (ngSubmit)="onSubmit(contactForm)" autocomplete="off">
+  <div class="form-group">
+    <label for="FirstName">FIRST NAME</label>
+    <input type="text" formControlName="FirstName" class="form-control">
+    <div class="validation-error" *ngIf="contactForm.get('FirstName').touched && contactForm.get('FirstName').invalid">This
+      field is required.</div>
+  </div>
+  <div class="form-group">
+    <label for="LastName">LAST NAME</label>
+    <input formControlName="LastName" class="form-control">
+    <div class="validation-error" *ngIf="contactForm.get('LastName').touched && contactForm.get('LastName').invalid">This
+      field is required.</div>
+  </div>
+  <div class="form-group">
+    <label for="Birthdate">BIRTHDATE</label>
+    <input type="date" formControlName="Birthdate" class="form-control">
+    <div class="validation-error" *ngIf="contactForm.get('Birthdate').touched && contactForm.get('Birthdate').invalid">This
+      field is required.</div>
+  </div>
+  <div class="form-group">
+    <label for="Address">ADDRESS</label>
+    <input formControlName="Address" class="form-control">
+    <div class="validation-error" *ngIf="contactForm.get('Address').touched && contactForm.get('Address').invalid">This field
+      is required.</div>
+  </div>
+  <div class="form-group">
+    <label for="City">CITY</label>
+    <input formControlName="City" class="form-control">
+    <div class="validation-error" *ngIf="contactForm.get('City').touched && contactForm.get('City').invalid">This field is
+      required.
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="Country">COUNTRY</label>
+    <input formControlName="Country" class="form-control">
+    <div class="validation-error" *ngIf="contactForm.get('Country').touched && contactForm.get('Country').invalid">This field
+      is required.</div>
+  </div>
+  <div class="form-group">
+    <label for="Country">TAG</label>
+    <input formControlName="Tag" class="form-control">
+    <div class="validation-error" *ngIf="contactForm.get('Country').touched && contactForm.get('Country').invalid">This field
+      is required.</div>
+  </div>
+  <div class="form-group" formArrayName="PhoneNumbers">
+    <legend>PHONE NUMBERS | <span class="glyphicon glyphicon-plus" (click)="addNumber()"></span> </legend>
+    <div class="input-group" *ngFor="let numberControl of contactForm.get('PhoneNumbers').controls; let i = index">
+      <input type="text" class="form-control" placeholder="e.g. 0991234567" [formControlName]="i">
+      <span class="input-group-addon glyphicon glyphicon-trash" (click)="deleteNumber(i)"></span>
+    </div>
+  </div>
+  <div class="form-group" formArrayName="Emails">
+    <legend>EMAILS | <span class="glyphicon glyphicon-plus" (click)="addEmail()"></span>
+    </legend>
+    <div class="input-group" *ngFor="let emailControl of contactForm.get('Emails').controls; let i = index">
+      <input type="text" class="form-control" placeholder="e.g. example@example.com" [formControlName]="i">
+      <span class="input-group-addon glyphicon glyphicon-trash" (click)="deleteEmail(i)"></span>
+    </div>
+  </div>
+  <div class="form-group">
+    <button type="submit" [disabled]="contactForm.invalid" class="btn btn-lg btn-block">SUBMIT</button>
+  </div>
+</form>
